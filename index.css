@@ -1,0 +1,19 @@
+header{
+  background-color: black;
+  color: #ddd;
+  text-align: center;
+  font-size: 30px;
+  padding: 2%;
+  text-align: center;
+  margin: 1%;
+  border:2px and solid black;
+  box-shadow: 3px 3px 3px black;
+}
+a img{
+  width: 8%;
+  display: block;
+  margin-left: auto;
+  border: 2px solid red;
+  border-radius: 50%;
+
+}
